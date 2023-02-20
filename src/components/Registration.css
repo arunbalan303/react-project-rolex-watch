@@ -1,0 +1,20 @@
+.co1{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210408/pngtree-white-abstract-vector-web-background-design-image_597636.jpg");
+    background-size: cover;
+
+
+}
+.bw{
+    background-color:blue;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+    margin-left: 35%;
+}
+.bw:hover{
+    background-color:blueviolet;
+}

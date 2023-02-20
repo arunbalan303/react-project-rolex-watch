@@ -1,0 +1,20 @@
+.co{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/267/214/small/modern-clean-white-background-free-vector.jpg");
+    background-size: cover;
+
+
+}
+.p2{
+    background: url(https://content.rolex.com/dam/homepage/cut-out/homepage-gmt-master-ii-m126715chnr-0001-cutout-background.jpg)   -20px -20px no-repeat;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+    /* Below is not needed */
+    display:block;
+    font-size: 50px;
+    font-family: arial;
+   text-align: center;
+   margin-top: -95px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-size: cover;
+  }

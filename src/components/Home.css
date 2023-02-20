@@ -1,0 +1,52 @@
+.j{
+    background: url(https://content.rolex.com/dam/homepage/cut-out/homepage-gmt-master-ii-m126715chnr-0001-cutout-background.jpg)   -20px -20px no-repeat;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+    /* Below is not needed */
+    display:block;
+    font-size: 50px;
+    font-family: arial;
+   text-align: center;
+   
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-size: cover;
+  }
+  .j1 {
+    color: #000;
+   
+    text-align: center;
+    font-family: calibri;
+    font-size: 15px;
+  }
+
+  .j2{
+    background: url(https://content.rolex.com/dam/homepage/cut-out/homepage-gmt-master-ii-m126715chnr-0001-cutout-background.jpg)   -20px -20px no-repeat;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+    /* Below is not needed */
+    display:block;
+    font-size: 50px;
+    font-family: arial;
+   text-align: center;
+   margin-top: -95px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    background-size: cover;
+  }
+  
+.a{
+    text-decoration: none;
+    color: white;
+   
+}
+.b{
+   height: 100px;
+   width: 100px;
+   margin-left: 45%;
+}
+
+.b:hover{
+  transform: scale(1.1);
+}
+
